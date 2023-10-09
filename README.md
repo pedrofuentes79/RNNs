@@ -12,6 +12,9 @@ The dataset is from kaggle. It can be found [here](https://www.kaggle.com/datase
 In the (Sentiment-Analysis directory)[https://github.com/pedrofuentes79/RNNs/tree/master/Sentiment-Analysis] there are several implementations of different models to solve this problem, including a CNN, a RNN with LSTM layers and a BERT model fine tuned with a small sample of the dataset.   
 There are some variants to the implementations, for example there is a CNN model which uses a pretrained word2vec model to initialize the embedding layer and there is another one which uses keras' embedding layer.
 
+## Project 3: [Named-Entity Recognition](https://github.com/pedrofuentes79/RNNs/tree/master/Named-Entity-Recognition) (UNFINISHED)
+This model aims to recognize the named entities in a sentence. These entities can be various things, but the most common ones are people, places, organizations, dates. Since it is not finished, I will keep experimenting with various datasets.
+
 ## Packages
 * [Tensorflow](https://www.tensorflow.org/)
 * [Sci-kit Learn](https://scikit-learn.org/stable/)
